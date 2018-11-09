@@ -1,1 +1,0 @@
-docker run ipfs:v1
